@@ -1,10 +1,18 @@
 ## Comparison of deep learning methods for image deblurring on light optical materials microscopy data
 
-Please refer to our IEEE Case 2021 paper for details: [TODO]
+Please refer to our IEEE Case 2021 paper for details: [https://ieeexplore.ieee.org/document/9551404]
 
 If you find our work useful in your research or publication, please cite our work:
 ```
-@TODO
+@INPROCEEDINGS{9551404,
+  author={Krawczyk, Patrick and Baumgartl, Hermann and Jansche, Andreas and Bernthaler, Timo and Buettner, Ricardo and Schneider, Gerhard},
+  booktitle={2021 IEEE 17th International Conference on Automation Science and Engineering (CASE)}, 
+  title={Comparison of deep learning methods for image deblurring on light optical materials microscopy data}, 
+  year={2021},
+  volume={},
+  number={},
+  pages={1332-1337},
+  doi={10.1109/CASE49439.2021.9551404}}
 ```
 
 ## Usage
